@@ -1,0 +1,11 @@
+/*
+ * Создайте представление, которое выводит название name товарной позиции из таблицы 
+ * products и соответствующее название каталога name из таблицы catalogs.
+ */
+
+DROP VIEW IF EXISTS v_products;
+CREATE VIEW v_products AS
+
+SELECT p.name as products, c.name as catalogs FROM products p JOIN catalogs c ON p.catalog_id = c.id;
+
+SELECT * FROM v_products;
