@@ -21,7 +21,7 @@ params = {
 header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36',
           'Accept': '*/*'}
 
-# Из массива по элементам собирваем строку и преобразуем в число
+# РР· РјР°СЃСЃРёРІР° РїРѕ СЌР»РµРјРµРЅС‚Р°Рј СЃРѕР±РёСЂРІР°РµРј СЃС‚СЂРѕРєСѓ Рё РїСЂРµРѕР±СЂР°Р·СѓРµРј РІ С‡РёСЃР»Рѕ
 def parse_coast(mas):
     res = ''
     for m in mas:
@@ -33,7 +33,7 @@ df = pd.DataFrame(columns = ['Vacancy', 'Link', 'Company', 'City', 'Salary_min',
 i = 1
 j = 0
 while True:
-    # Переход по страницам
+    # РџРµСЂРµС…РѕРґ РїРѕ СЃС‚СЂР°РЅРёС†Р°Рј
     params['page'] = i
     i += 1
     response = requests.get(main_link + "/vacancy/search/", headers=header, params=params).text
@@ -53,10 +53,10 @@ while True:
         vac_salary_min = np.nan
         vac_salary_max = np.nan
         vac_salary_currency = np.nan
-
-        # Разбиваем строку в зависимости от варианта указания зарплаты, если зарплата указана через дефис
-        # то разделем строку по '-' на две стоимости, иначе откидываем присавку "от" или "до" и валюту,
-        # и также передаем в функцию для получения стоимости
+        
+        # Р Р°Р·Р±РёРІР°РµРј СЃС‚СЂРѕРєСѓ РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ РІР°СЂРёР°РЅС‚Р° СѓРєР°Р·Р°РЅРёСЏ Р·Р°СЂРїР»Р°С‚С‹, РµСЃР»Рё Р·Р°СЂРїР»Р°С‚Р° СѓРєР°Р·Р°РЅР° С‡РµСЂРµР· РґРµС„РёСЃ
+        # С‚Рѕ СЂР°Р·РґРµР»РµРј СЃС‚СЂРѕРєСѓ РїРѕ '-' РЅР° РґРІРµ СЃС‚РѕРёРјРѕСЃС‚Рё, РёРЅР°С‡Рµ РѕС‚РєРёРґС‹РІР°РµРј РїСЂРёСЃР°РІРєСѓ "РѕС‚" РёР»Рё "РґРѕ" Рё РІР°Р»СЋС‚Сѓ,
+        # Рё С‚Р°РєР¶Рµ РїРµСЂРµРґР°РµРј РІ С„СѓРЅРєС†РёСЋ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ СЃС‚РѕРёРјРѕСЃС‚Рё
         if vac_salary.find('вЂ”') != -1:
             vac_salary_min = parse_coast(vac_salary.split(sep = 'вЂ”')[0].split(sep = '\xa0'))
             vac_salary_max = parse_coast(vac_salary.split(sep = 'вЂ”')[1].split(sep = '\xa0')[0:-1])
@@ -72,8 +72,8 @@ while True:
 
         df.loc[j] = [vac_name, vac_link, vac_comp, vac_city, vac_salary_min, vac_salary_max, vac_salary_currency]
         j += 1
-
-    # Если кнопка дальше отсутствует - прекращаем парсинг
+        
+    # Р•СЃР»Рё РєРЅРѕРїРєР° РґР°Р»СЊС€Рµ РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚ - РїСЂРµРєСЂР°С‰Р°РµРј РїР°СЂСЃРёРЅРі
     if not soup.find('a', {'class': 'icMQ_ _1_Cht _3ze9n f-test-button-dalshe f-test-link-Dalshe'}):
         break
 
