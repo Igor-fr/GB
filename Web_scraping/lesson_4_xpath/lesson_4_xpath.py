@@ -158,7 +158,7 @@ news_collection = news_db.news
 
 # Проверяем по ссылке, если такой ссылки еще не было - записываем, если была - перезаписываем
 for row in data:
-    news_collection.update_one({'link':row['link']},{'$set':row}, upsert=True)
+    news_collection.update_one({'$or':[{'link':row['link']}, {'title':row['title']}]},{'$set':row}, upsert=True)
 
 # Выведем все заголовки и сохраним данные в .csv
 all_news = news_collection.find({})
