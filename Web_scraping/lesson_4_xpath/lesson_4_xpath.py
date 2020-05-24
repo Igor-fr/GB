@@ -156,7 +156,8 @@ client = MongoClient('localhost', 27017)
 news_db = client['news']
 news_collection = news_db.news
 
-# Проверяем по ссылке, если такой ссылки еще не было - записываем, если была - перезаписываем
+# Проверяем по ссылке и имени, если такой ссылки или такого имени еще не было - записываем,
+# если были - перезаписываем
 for row in data:
     news_collection.update_one({'$or':[{'link':row['link']}, {'title':row['title']}]},{'$set':row}, upsert=True)
 
