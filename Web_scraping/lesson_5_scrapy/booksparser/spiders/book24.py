@@ -31,11 +31,7 @@ class Book24Spider(scrapy.Spider):
         authors = response.xpath("//a[@class='item-tab__chars-link js-data-link']/text()").extract()
         name = response.xpath("//h1[@class='item-detail__title']/text()").extract_first()
         link = response.url
-        sale_coast = response.xpath("//div[@class='item-actions__prices']//div[@class='item-actions__price']/b/text()").extract_first()
+        sale_coast = response.xpath("//div[@class='item-actions__price']/b/text()").extract_first()
         old_coast = response.xpath("//div[@class='item-actions__price-old']/text()").extract_first()
-        # try:
-        #     old_coast = response.xpath("//div[@class='item-actions__price-old']/text()").extract_first()
-        # except:
-        #     old_coast = None
-        rating = response.xpath("//span[@class='rating__rate-value']/text()").extract_first()
+        rating = response.xpath("//span[@class='rating__rate-value']").extract_first()
         yield BooksparserItem(authors=authors, name=name, link=link, sale_coast=sale_coast, old_coast=old_coast, rating=rating)

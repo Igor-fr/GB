@@ -24,5 +24,5 @@ class BooksparserPipeline:
         if item['rating']:
             item['rating'] = float(item['rating'].replace(',','.'))
         collection = self.mongo_db[spider.name]
-        collection.insert_one(item)
+        collection.update_one({'link': item['link']}, {'$set': item},upsert=True)
         return item
