@@ -1,12 +1,12 @@
 _id,authors,name,link,sale_coast,old_coast,rating
-5ecebab4f2c954e59741e40d,"[""Бэрри Пол""]",Изучаем программирование на Python,https://book24.ru/product/izuchaem-programmirovanie-na-python-1595276/,1279,null,null
+5ecebab4f2c954e59741e40d,"[""Бэрри Пол""]",Изучаем программирование на Python,https://book24.ru/product/izuchaem-programmirovanie-na-python-1595276/,1279,null,4.5
 5ecebab4f2c954e59741e40e,"[""Торгашева Ю В""]",Программирование для детей. Учимся создавать игры на Scratch,https://book24.ru/product/programmirovanie-dlya-detey-uchimsya-sozdavat-igry-na-scratch-5442633/,553,null,null
 5ecebab4f2c954e59741e40f,"[""Воронин И В""]",Программирование для детей. От основ к созданию роботов,https://book24.ru/product/programmirovanie-dlya-detey-ot-osnov-k-sozdaniyu-robotov-5442579/,815,null,null
 5ecebab5f2c954e59741e410,"[""Йохан Алудден"",""Федерико Вальясинди""]",Программирование для детей. Видеоигры на Scratch,https://book24.ru/product/programmirovanie-dlya-detey-videoigry-na-scratch-5291449/,500,null,null
 5ecebab5f2c954e59741e411,"[""Уитни Д.""]","Программирование для детей. Учимся создавать сайты, приложения и игры. HTML, CSS и JavaScript",https://book24.ru/product/programmirovanie-dlya-detey-uchimsya-sozdavat-sayty-prilozheniya-i-igry-html-css-i-javascript-5442606/,922,null,null
 5ecebab5f2c954e59741e412,"[""Йохан Алудден"",""Федерико Вальясинди""]",Программирование для детей. Анимация на Scratch,https://book24.ru/product/programmirovanie-dlya-detey-animatsiya-na-scratch-5291448/,500,null,null
 5ecebab5f2c954e59741e413,"[""Торгашева Ю В""]",Программирование для детей. Мои первые программы на Scratch,https://book24.ru/product/programmirovanie-dlya-detey-moi-pervye-programmy-na-scratch-5441645/,553,null,null
-5ecebab5f2c954e59741e414,"[""Свейгарт Эл""]",Программирование для детей. Делай игры и учи язык Scratch!,https://book24.ru/product/programmirovanie-dlya-detey-delay-igry-i-uchi-yazyk-scratch-1613363/,846,940,null
+5ecebab5f2c954e59741e414,"[""Свейгарт Эл""]",Программирование для детей. Делай игры и учи язык Scratch!,https://book24.ru/product/programmirovanie-dlya-detey-delay-igry-i-uchi-yazyk-scratch-1613363/,846,940,5
 5ecebab5f2c954e59741e416,"[""Бейдер Д""]",Чистый Python. Тонкости программирования для профи,https://book24.ru/product/chistyy-python-tonkosti-programmirovaniya-dlya-profi-5442569/,1220,null,null
 5ecebab5f2c954e59741e417,"[""Уильямс Э.""]",C++. Практика многопоточного программирования,https://book24.ru/product/c-praktika-mnogopotochnogo-programmirovaniya-5616757/,2035,null,null
 5ecebab6f2c954e59741e41a,"[""Седжвик Р""]"," основы программирования на Java, ООП, алгоритмы и структуры данных",https://book24.ru/product/computer-science-osnovy-programmirovaniya-na-java-oop-algoritmy-i-struktury-dannykh-5441608/,2538,null,null
@@ -21,16 +21,16 @@ _id,authors,name,link,sale_coast,old_coast,rating
 5ecebab7f2c954e59741e42e,"[""Спиро Р.""]",Малыш любит науку. Программирование/Спиро Р.,https://book24.ru/product/malysh-lyubit-nauku-programmirovanie-spiro-r-5432483/,531,null,null
 5ecebab7f2c954e59741e431,"[""Доусон М""]",Изучаем C++ через программирование игр,https://book24.ru/product/izuchaem-c-cherez-programmirovanie-igr-658366/,837,null,null
 5ecebab8f2c954e59741e432,"[""Мэтлофф Н.""]",Искусство программирования на R. Погружение в большие данные,https://book24.ru/product/iskusstvo-programmirovaniya-na-r-pogruzhenie-v-bolshie-dannye-5442229/,1360,null,null
-5ecebab8f2c954e59741e433,"[""Гриффитс Дуэйн"",""Гриффитс Доун""]",Изучаем программирование на C,https://book24.ru/product/izuchaem-programmirovanie-na-c-144202/,1504,null,null
+5ecebab8f2c954e59741e433,"[""Гриффитс Дуэйн"",""Гриффитс Доун""]",Изучаем программирование на C,https://book24.ru/product/izuchaem-programmirovanie-na-c-144202/,1504,null,4.6
 5ecebab8f2c954e59741e434,"[""Любанович Б""]",Простой Python. Современный стиль программирования,https://book24.ru/product/prostoy-python-sovremennyy-stil-programmirovaniya-5442074/,1384,null,null
-5ecebab8f2c954e59741e436,"[""Васильев Алексей Николаевич""]",Программирование на C# для начинающих. Особенности языка,https://book24.ru/product/programmirovanie-na-c-dlya-nachinayushchikh-osobennosti-yazyka-2210270/,779,865,null
-5ecebab8f2c954e59741e437,"[""Васильев Алексей Николаевич""]",Программирование на Java для начинающих,https://book24.ru/product/programmirovanie-na-java-dlya-nachinayushchikh-730396/,809,null,null
-5ecebab9f2c954e59741e43a,"[""МакГрат Майк""]",Программирование на Visual Basic для начинающих,https://book24.ru/product/programmirovanie-na-visual-basic-dlya-nachinayushchikh-712747/,494,null,null
-5ecebab9f2c954e59741e43b,"[""Васильев Алексей Николаевич""]",Программирование на C# для начинающих. Основные сведения,https://book24.ru/product/programmirovanie-na-c-dlya-nachinayushchikh-osnovnye-svedeniya-1855474/,903,null,null
+5ecebab8f2c954e59741e436,"[""Васильев Алексей Николаевич""]",Программирование на C# для начинающих. Особенности языка,https://book24.ru/product/programmirovanie-na-c-dlya-nachinayushchikh-osobennosti-yazyka-2210270/,779,865,5
+5ecebab8f2c954e59741e437,"[""Васильев Алексей Николаевич""]",Программирование на Java для начинающих,https://book24.ru/product/programmirovanie-na-java-dlya-nachinayushchikh-730396/,809,null,4.5
+5ecebab9f2c954e59741e43a,"[""МакГрат Майк""]",Программирование на Visual Basic для начинающих,https://book24.ru/product/programmirovanie-na-visual-basic-dlya-nachinayushchikh-712747/,494,null,5
+5ecebab9f2c954e59741e43b,"[""Васильев Алексей Николаевич""]",Программирование на C# для начинающих. Основные сведения,https://book24.ru/product/programmirovanie-na-c-dlya-nachinayushchikh-osnovnye-svedeniya-1855474/,903,null,5
 5ecebab9f2c954e59741e43d,"[""Васильев Алексей Николаевич""]",Программирование на C++ в примерах и задачах,https://book24.ru/product/programmirovanie-na-c-v-primerakh-i-zadachakh-707698/,583,null,5
-5ecebab9f2c954e59741e440,"[""МакГрат Майк""]",Программирование на Python для начинающих,https://book24.ru/product/programmirovanie-na-python-dlya-nachinayushchikh-172870/,491,545,null
+5ecebab9f2c954e59741e440,"[""МакГрат Майк""]",Программирование на Python для начинающих,https://book24.ru/product/programmirovanie-na-python-dlya-nachinayushchikh-172870/,491,545,4.3
 5ecebab9f2c954e59741e441,"[""Уитни Д.""]",Программирование для детей. Пять самых крутых игр на HTML и JavaScript,https://book24.ru/product/programmirovanie-dlya-detey-pyat-samykh-krutykh-igr-na-html-i-javascript-5457952/,837,null,null
-5ecebab9f2c954e59741e443,"[""Крамер Джен""]","Joomla! Как спланировать, создать и поддерживать ваш веб-сайт",https://book24.ru/product/joomla-kak-splanirovat-sozdat-i-podderzhivat-vash-veb-sayt-159511/,471,null,null
+5ecebab9f2c954e59741e443,"[""Крамер Джен""]","Joomla! Как спланировать, создать и поддерживать ваш веб-сайт",https://book24.ru/product/joomla-kak-splanirovat-sozdat-i-podderzhivat-vash-veb-sayt-159511/,471,null,5
 5ecebabaf2c954e59741e447,"[""Бурков А.""]",Машинное обучение без лишних слов,https://book24.ru/product/mashinnoe-obuchenie-bez-lishnikh-slov-5616640/,1149,null,null
 5ecebabaf2c954e59741e448,[],Теоретический минимум по Big Data. Всё что нужно знать о больших данных,https://book24.ru/product/teoreticheskiy-minimum-po-big-data-vsye-chto-nuzhno-znat-o-bolshikh-dannykh-5442453/,702,null,null
 5ecebabaf2c954e59741e44a,"[""Мартин Р.""]",Чистая архитектура. Искусство разработки программного обеспечения,https://book24.ru/product/chistaya-arkhitektura-iskusstvo-razrabotki-programmnogo-obespecheniya-5441894/,920,null,null
@@ -40,23 +40,23 @@ _id,authors,name,link,sale_coast,old_coast,rating
 5ecebabbf2c954e59741e453,"[""Данжу Д""]","Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию",https://book24.ru/product/put-python-chernyy-poyas-po-razrabotke-masshtabirovaniyu-testirovaniyu-i-razvertyvaniyu-5442123/,1177,null,null
 5ecebabbf2c954e59741e454,"[""Силен Д""]",Основы Data Science и Big Data. Python и наука о данных,https://book24.ru/product/osnovy-data-science-i-big-data-python-i-nauka-o-dannykh-5442019/,1378,null,null
 5ecebabbf2c954e59741e455,"[""Сенько  А В""]",Работа с BigData в облаках. Обработка и хранение данных с примерами из Microsoft Azure,https://book24.ru/product/rabota-s-bigdata-v-oblakakh-obrabotka-i-khranenie-dannykh-s-primerami-iz-microsoft-azure-5441992/,1115,null,null
-5ecebabbf2c954e59741e45a,"[""Эндрю Стеллман и Дженнифер Грин""]","Постигая Agile. Ценности, принципы, методологии",https://book24.ru/product/postigaya-agile-tsennosti-printsipy-metodologii-1603408/,1563,null,null
-5ecebabcf2c954e59741e45d,"[""Макфарланд Дэвид""]",JavaScript и jQuery. Исчерпывающее руководство. 3-е издание,https://book24.ru/product/javascript-i-jquery-ischerpyvayushchee-rukovodstvo-3-e-izdanie-199986/,1279,null,null
-5ecebabcf2c954e59741e45f,"[""Брайсон Пэйн""]",Python для детей и родителей,https://book24.ru/product/python-dlya-detey-i-roditeley-713764/,865,null,null
+5ecebabbf2c954e59741e45a,"[""Эндрю Стеллман и Дженнифер Грин""]","Постигая Agile. Ценности, принципы, методологии",https://book24.ru/product/postigaya-agile-tsennosti-printsipy-metodologii-1603408/,1563,null,5
+5ecebabcf2c954e59741e45d,"[""Макфарланд Дэвид""]",JavaScript и jQuery. Исчерпывающее руководство. 3-е издание,https://book24.ru/product/javascript-i-jquery-ischerpyvayushchee-rukovodstvo-3-e-izdanie-199986/,1279,null,4.7
+5ecebabcf2c954e59741e45f,"[""Брайсон Пэйн""]",Python для детей и родителей,https://book24.ru/product/python-dlya-detey-i-roditeley-713764/,865,null,5
 5ecebabcf2c954e59741e460,"[""Ланц Б.""]", экспертные техники для прогностического анализа,https://book24.ru/product/mashinnoe-obuchenie-na-r-ekspertnye-tekhniki-dlya-prognosticheskogo-analiza-5616662/,2404,null,null
 5ecebabcf2c954e59741e462,"[""Макгаврен Д.""]",Head First. Изучаем Go,https://book24.ru/product/head-first-izuchaem-go-5616642/,2551,null,null
-5ecebabcf2c954e59741e464,"[""Дакетт Джон""]",Javascript и jQuery. Интерактивная веб-разработка,https://book24.ru/product/javascript-i-jquery-interaktivnaya-veb-razrabotka-712215/,1749,null,null
+5ecebabcf2c954e59741e464,"[""Дакетт Джон""]",Javascript и jQuery. Интерактивная веб-разработка,https://book24.ru/product/javascript-i-jquery-interaktivnaya-veb-razrabotka-712215/,1749,null,4.7
 5ecebabcf2c954e59741e465,"[""МакГрат Майк""]",PHP7 для начинающих,https://book24.ru/product/php7-dlya-nachinayushchikh-1589383/,491,545,5
 5ecebabcf2c954e59741e466,"[""Сауджани Решма""]",Программируй! Самоучитель для девочек,https://book24.ru/product/programmiruy-samouchitel-dlya-devochek-1935625/,573,null,5
 5ecebabcf2c954e59741e467,[],Искусственный интеллект,https://book24.ru/product/iskusstvennyy-intellekt-5414470/,375,431,null
 5ecebabdf2c954e59741e46a,"[""Ричардсон К""]",Микросервисы. Паттерны разработки и рефакторинга,https://book24.ru/product/mikroservisy-patterny-razrabotki-i-refaktoringa-5441732/,1757,null,null
-5ecebabdf2c954e59741e46e,"[""Дакетт Джон""]",HTML и CSS. Разработка и дизайн веб-сайтов,https://book24.ru/product/html-i-css-razrabotka-i-dizayn-veb-saytov-5136049/,1269,1410,null
-5ecebabdf2c954e59741e46f,"[""Кен Швайбер"",""Джеф Сазерленд""]",Софт за 30 дней. Как Scrum делает невозможное возможным,https://book24.ru/product/soft-za-30-dney-kak-scrum-delaet-nevozmozhnoe-vozmozhnym-1602676/,1225,null,null
+5ecebabdf2c954e59741e46e,"[""Дакетт Джон""]",HTML и CSS. Разработка и дизайн веб-сайтов,https://book24.ru/product/html-i-css-razrabotka-i-dizayn-veb-saytov-5136049/,1269,1410,4.5
+5ecebabdf2c954e59741e46f,"[""Кен Швайбер"",""Джеф Сазерленд""]",Софт за 30 дней. Как Scrum делает невозможное возможным,https://book24.ru/product/soft-za-30-dney-kak-scrum-delaet-nevozmozhnoe-vozmozhnym-1602676/,1225,null,4
 5ecebabdf2c954e59741e471,"[""Керриск М""]",Linux API. Исчерпывающее руководство,https://book24.ru/product/linux-api-ischerpyvayushchee-rukovodstvo-5442570/,3373,null,null
 5ecebabef2c954e59741e474,"[""Траск Э""]",Грокаем глубокое обучение,https://book24.ru/product/grokaem-glubokoe-obuchenie-5442745/,991,null,null
 5ecebabef2c954e59741e476,"[""Фило В""]",Теоретический минимум по Computer Science. Все что нужно программисту и разработчику,https://book24.ru/product/teoreticheskiy-minimum-po-computer-science-vse-chto-nuzhno-programmistu-i-razrabotchiku-5442643/,703,null,null
-5ecebabef2c954e59741e477,"[""Макеффри Митч""]",Unreal Engine VR для разработчиков,https://book24.ru/product/unreal-engine-vr-dlya-razrabotchikov-5284441/,940,null,null
-5ecebabef2c954e59741e478,[],Легкий способ выучить Python,https://book24.ru/product/legkiy-sposob-vyuchit-python-1403955/,658,null,null
+5ecebabef2c954e59741e477,"[""Макеффри Митч""]",Unreal Engine VR для разработчиков,https://book24.ru/product/unreal-engine-vr-dlya-razrabotchikov-5284441/,940,null,5
+5ecebabef2c954e59741e478,[],Легкий способ выучить Python,https://book24.ru/product/legkiy-sposob-vyuchit-python-1403955/,658,null,3.7
 5ecebabef2c954e59741e479,"[""Симпсон К""]",{Вы не знаете JS} Типы и грамматические конструкции,https://book24.ru/product/vy-ne-znaete-js-tipy-i-grammaticheskie-konstruktsii-5442758/,1092,null,null
 5ecebabef2c954e59741e47a,"[""Террелл  Р""]",Конкурентность и параллелизм на платформе .NET. Паттерны эффективного проектирования,https://book24.ru/product/konkurentnost-i-parallelizm-na-platforme-net-patterny-effektivnogo-proektirovaniya-5442736/,1970,null,null
 5ecebabff2c954e59741e47e,"[""Равичандиран С""]",Глубокое обучение с подкреплением на Python. OpenAI Gym и TensorFlow для профи,https://book24.ru/product/glubokoe-obuchenie-s-podkrepleniem-na-python-openai-gym-i-tensorflow-dlya-profi-5442249/,1347,null,null
@@ -87,24 +87,24 @@ _id,authors,name,link,sale_coast,old_coast,rating
 5ecebac4f2c954e59741e4b0,"[""Фримен Э""]",Изучаем программирование на JavaScript,https://book24.ru/product/izuchaem-programmirovanie-na-javascript-5442462/,2092,null,null
 5ecebac4f2c954e59741e4b1,"[""Фримен Э""]",Изучаем программирование на JavaScript,https://book24.ru/product/izuchaem-programmirovanie-na-javascript-656101/,1843,null,null
 5ecebac4f2c954e59741e4b4,[], Учебник для вузов,https://book24.ru/product/c-c-programmirovanie-na-yazyke-vysokogo-urovnya-uchebnik-dlya-vuzov-1566838/,932,null,null
-5ecebac4f2c954e59741e4b6,"[""Виллемер Арнольд""]",Программирование на С++ (+DVD),https://book24.ru/product/programmirovanie-na-s-dvd-175820/,1242,null,null
+5ecebac4f2c954e59741e4b6,"[""Виллемер Арнольд""]",Программирование на С++ (+DVD),https://book24.ru/product/programmirovanie-na-s-dvd-175820/,1242,null,5
 5ecebac5f2c954e59741e4b8,"[""Карвин Билл""]",Программирование баз данных SQL,https://book24.ru/product/programmirovanie-baz-dannykh-sql-164081/,548,null,null
 5ecebac5f2c954e59741e4ba,"[""Гриффитс Иэн""]",Программирование на C# 5.0,https://book24.ru/product/programmirovanie-na-c-5-0-143399/,2259,null,null
-5ecebac5f2c954e59741e4bc,"[""Перри Грег"",""Миллер Дин""]",Программирование на C для начинающих. 3-е издание,https://book24.ru/product/programmirovanie-na-c-dlya-nachinayushchikh-3-e-izdanie-153040/,931,null,null
+5ecebac5f2c954e59741e4bc,"[""Перри Грег"",""Миллер Дин""]",Программирование на C для начинающих. 3-е издание,https://book24.ru/product/programmirovanie-na-c-dlya-nachinayushchikh-3-e-izdanie-153040/,931,null,5
 5ecebac5f2c954e59741e4be,"[""Хавербеке М""]",Выразительный JavaScript. Современное веб-программирование. 3-е издание,https://book24.ru/product/vyrazitelnyy-javascript-sovremennoe-veb-programmirovanie-3-e-izdanie-5442862/,1815,null,null
 5ecebac5f2c954e59741e4bf,[],"Программирование для начинающих. Детям и родителям, менеджерам и руководителям. Разработка в системе «1С",https://book24.ru/product/1s-programmirovanie-dlya-nachinayushchikh-detyam-i-roditelyam-menedzheram-i-rukovoditelyam-razrabotk-1564747/,839,null,null
 5ecebac6f2c954e59741e4c1,"[""Хансен Роб""]",Программирование - это круто!,https://book24.ru/product/programmirovanie-eto-kruto-5432203/,443,null,null
-5ecebac6f2c954e59741e4c2,"[""МакГрат Майк""]",Программирование на C для начинающих,https://book24.ru/product/programmirovanie-na-c-dlya-nachinayushchikh-160011/,470,null,null
-5ecebac6f2c954e59741e4c4,"[""МакГрат Майк""]",Программирование на Java для начинающих,https://book24.ru/product/programmirovanie-na-java-dlya-nachinayushchikh-183331/,470,null,null
+5ecebac6f2c954e59741e4c2,"[""МакГрат Майк""]",Программирование на C для начинающих,https://book24.ru/product/programmirovanie-na-c-dlya-nachinayushchikh-160011/,470,null,5
+5ecebac6f2c954e59741e4c4,"[""МакГрат Майк""]",Программирование на Java для начинающих,https://book24.ru/product/programmirovanie-na-java-dlya-nachinayushchikh-183331/,470,null,4.3
 5ecebac7f2c954e59741e4c9,"[""Черников С.В.""]",Корпоративное озеро больших данных. Перспективы Big Data и науки о данных,https://book24.ru/product/korporativnoe-ozero-bolshikh-dannykh-perspektivy-big-data-i-nauki-o-dannykh-5672400/,973,null,null
 5ecebac7f2c954e59741e4ca,"[""Мориц Д""]",Учимся кодить на JavaScript,https://book24.ru/product/uchimsya-kodit-na-javascript-5442138/,773,null,null
-5ecebac7f2c954e59741e4cb,"[""Эликс Том"",""Баррио Алексис""]",Роботоделы. Короткое замыкание в школе,https://book24.ru/product/robotodely-korotkoe-zamykanie-v-shkole-5000035/,677,null,null
+5ecebac7f2c954e59741e4cb,"[""Эликс Том"",""Баррио Алексис""]",Роботоделы. Короткое замыкание в школе,https://book24.ru/product/robotodely-korotkoe-zamykanie-v-shkole-5000035/,677,null,5
 5ecebac7f2c954e59741e4cc,[],Scratch для юных программистов,https://book24.ru/product/scratch-dlya-yunykh-programmistov-5446575/,410,471,5
-5ecebac7f2c954e59741e4d0,"[""Patrick Niemeyer"",""Daniel Leuck""]",Программирование на Java,https://book24.ru/product/programmirovanie-na-java-151241/,1968,null,null
+5ecebac7f2c954e59741e4d0,"[""Patrick Niemeyer"",""Daniel Leuck""]",Программирование на Java,https://book24.ru/product/programmirovanie-na-java-151241/,1968,null,2.7
 5ecebac7f2c954e59741e4d2,"[""Гриффитс Д.""]",Head First. Программирование для Android. 2-е изд,https://book24.ru/product/head-first-programmirovanie-dlya-android-2-e-izd-5442612/,2396,null,null
-5ecebac7f2c954e59741e4d3,"[""Кэрол Вордерман"",""Джон Вудкок"",""Шон Макаманус""]",Программирование для детей,https://book24.ru/product/programmirovanie-dlya-detey-157428/,1574,null,null
+5ecebac7f2c954e59741e4d3,"[""Кэрол Вордерман"",""Джон Вудкок"",""Шон Макаманус""]",Программирование для детей,https://book24.ru/product/programmirovanie-dlya-detey-157428/,1574,null,5
 5ecebac8f2c954e59741e4d5,[], информационно-познавательная деятельность учащихся,https://book24.ru/product/programmirovanie-7-11-klassy-informatsionno-poznavatelnaya-deyatelnost-uchashchikhsya-1569944/,133,null,null
-5ecebac8f2c954e59741e4d6,[],Программирование для детей на языке Scratch,https://book24.ru/product/programmirovanie-dlya-detey-na-yazyke-scratch-1401348/,431,null,null
+5ecebac8f2c954e59741e4d6,[],Программирование для детей на языке Scratch,https://book24.ru/product/programmirovanie-dlya-detey-na-yazyke-scratch-1401348/,431,null,5
 5ecebac8f2c954e59741e4d8,"[""Банкрашков А.В.""]",Программирование для детей на языке Python,https://book24.ru/product/programmirovanie-dlya-detey-na-yazyke-python-1791066/,471,null,null
 5ecebac8f2c954e59741e4db,[],Программирование образовательного процесса по физической культуре в соответствии с требованиями ФГОС. Компакт-диск для компьютера,https://book24.ru/product/programmirovanie-obrazovatelnogo-protsessa-po-fizicheskoy-kulture-v-sootvetstvii-s-trebovaniyami-fgo-1568236/,218,null,null
 5ecebac8f2c954e59741e4dd,"[""Орлов С А""]",Теория и практика языков программирования. Учебник для вузов. 2-е изд. Стандарт 3-го поколения,https://book24.ru/product/teoriya-i-praktika-yazykov-programmirovaniya-uchebnik-dlya-vuzov-2-e-izd-standart-3-go-pokoleniya-5442675/,2099,null,null
@@ -128,10 +128,10 @@ _id,authors,name,link,sale_coast,old_coast,rating
 5ecebacbf2c954e59741e4ff,[],Swift. Основы разработки приложений под iOS и OS X. 2-е изд. Swift 2.2,https://book24.ru/product/swift-osnovy-razrabotki-prilozheniy-pod-ios-i-os-x-2-e-izd-swift-2-2-647120/,696,null,null
 5ecebacbf2c954e59741e500,[],Паттерны проектирования на платформе .NET,https://book24.ru/product/patterny-proektirovaniya-na-platforme-net-643128/,795,null,null
 5ecebaccf2c954e59741e503,"[""Усов В А""]","Swift. Основы разработки приложений под iOS, iPadOS и macOS. 5-е изд. дополненное и переработанное",https://book24.ru/product/swift-osnovy-razrabotki-prilozheniy-pod-ios-ipados-i-macos-5-e-izd-dopolnennoe-i-pererabotannoe-5442124/,1105,null,null
-5ecebaccf2c954e59741e504,"[""Бен-Ган Ицик""]",Microsoft SQL Server 2012. Основы T-SQL,https://book24.ru/product/microsoft-sql-server-2012-osnovy-t-sql-147538/,1086,null,null
+5ecebaccf2c954e59741e504,"[""Бен-Ган Ицик""]",Microsoft SQL Server 2012. Основы T-SQL,https://book24.ru/product/microsoft-sql-server-2012-osnovy-t-sql-147538/,1086,null,5
 5ecebaccf2c954e59741e508,"[""Метц Сэнди""]",Ruby. Объектно-ориентированное проектирование,https://book24.ru/product/ruby-obektno-orientirovannoe-proektirovanie-1566713/,1177,null,null
 5ecebaccf2c954e59741e50a,[],Программируем для iPhone и iPad. 3-е изд.,https://book24.ru/product/programmiruem-dlya-iphone-i-ipad-3-e-izd-657354/,1237,null,null
-5ecebaccf2c954e59741e50b,[],Философия Java. 4-е полное изд.,https://book24.ru/product/filosofiya-java-4-e-polnoe-izd-658792/,2045,null,null
+5ecebaccf2c954e59741e50b,[],Философия Java. 4-е полное изд.,https://book24.ru/product/filosofiya-java-4-e-polnoe-izd-658792/,2045,null,4
 5ecebacdf2c954e59741e50d,"[""Стиллмен Э""]","Head First. Изучаем C#. 3-е изд. Включая C# 5.0, Visual Studio 2012 и .NET 4.5 Framework",https://book24.ru/product/head-first-izuchaem-c-3-e-izd-vklyuchaya-c-5-0-visual-studio-2012-i-net-4-5-framework-646238/,1760,null,null
 5ecebacdf2c954e59741e50e,"[""Доусон М""]",Программируем на Python,https://book24.ru/product/programmiruem-na-python-641484/,1133,null,null
 5ecebacdf2c954e59741e50f,[],Веб-разработка с применением Node и Express. Полноценное использование стека JavaScript,https://book24.ru/product/veb-razrabotka-s-primeneniem-node-i-express-polnotsennoe-ispolzovanie-steka-javascript-659292/,1129,null,null
@@ -142,7 +142,7 @@ _id,authors,name,link,sale_coast,old_coast,rating
 5ecebacef2c954e59741e51a,[],Основы Data Science и Big Data. Python и наука о данных,https://book24.ru/product/osnovy-data-science-i-big-data-python-i-nauka-o-dannykh-1566572/,1378,null,null
 5ecebacff2c954e59741e51d,[],HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств. 2-е изд.,https://book24.ru/product/html5-i-css3-razrabotka-saytov-dlya-lyubykh-brauzerov-i-ustroystv-2-e-izd-659440/,1022,null,null
 5ecebacff2c954e59741e51e,[],Секреты CSS. Идеальные решения ежедневных задач,https://book24.ru/product/sekrety-css-idealnye-resheniya-ezhednevnykh-zadach-659291/,1164,null,null
-5ecebacff2c954e59741e520,"[""Дейтел П""]",Android для разработчиков. 3-е издание,https://book24.ru/product/android-dlya-razrabotchikov-3-e-izdanie-658641/,1334,null,null
+5ecebacff2c954e59741e520,"[""Дейтел П""]",Android для разработчиков. 3-е издание,https://book24.ru/product/android-dlya-razrabotchikov-3-e-izdanie-658641/,1334,null,5
 5ecebacff2c954e59741e521,[],Путь программиста,https://book24.ru/product/put-programmista-657225/,1326,null,null
 5ecebacff2c954e59741e522,[],Интерфейс. Основы проектирования взаимодействия. 4-е изд.,https://book24.ru/product/interfeys-osnovy-proektirovaniya-vzaimodeystviya-4-e-izd-657279/,1788,null,null
 5ecebacff2c954e59741e527,[], современные паттерны обработки больших данных,https://book24.ru/product/spark-dlya-professionalov-sovremennye-patterny-obrabotki-bolshikh-dannykh-654724/,1354,null,null
@@ -252,7 +252,7 @@ _id,authors,name,link,sale_coast,old_coast,rating
 5ecebae4f2c954e59741e5f5,[],Предприятие 8.3. Практическое пособие разработчика. Примеры и типовые приемы (+диск),https://book24.ru/product/1c-predpriyatie-8-3-prakticheskoe-posobie-razrabotchika-primery-i-tipovye-priemy-disk-660349/,262,null,null
 5ecebae4f2c954e59741e5f6,[],Разработка управляемого интерфейса (+диск),https://book24.ru/product/razrabotka-upravlyaemogo-interfeysa-disk-660344/,350,null,null
 5ecebae4f2c954e59741e5f7,"[""Дакетт Джон""]",HTML и CSS. Разработка и дизайн веб-сайтов (+CD),https://book24.ru/product/html-i-css-razrabotka-i-dizayn-veb-saytov-cd-145108/,1316,null,4.9
-5ecebae5f2c954e59741e5fc,[],Предприятие 8.3. Практическое пособие разработчика. Примеры и типовые приемы (+CD),https://book24.ru/product/1s-predpriyatie-8-3-prakticheskoe-posobie-razrabotchika-primery-i-tipovye-priemy-cd-622137/,339,null,null
+5ecebae5f2c954e59741e5fc,[],Предприятие 8.3. Практическое пособие разработчика. Примеры и типовые приемы (+CD),https://book24.ru/product/1s-predpriyatie-8-3-prakticheskoe-posobie-razrabotchika-primery-i-tipovye-priemy-cd-622137/,339,null,5
 5ecebae5f2c954e59741e5fd,[],Изучаем Haskell. Библиотека программиста,https://book24.ru/product/izuchaem-haskell-biblioteka-programmista-648091/,1228,null,null
 5ecebae5f2c954e59741e5ff,[],Microsoft Visual C#. Подробное руководство. 8-е издание Подробное руководство,https://book24.ru/product/microsoft-visual-c-podrobnoe-rukovodstvo-8-e-izdanie-podrobnoe-rukovodstvo-1565823/,1974,null,null
 5ecebae5f2c954e59741e600,[],Предприятие 8». Издание 2 (+диск),https://book24.ru/product/professionalnaya-razrabotka-v-sisteme-1s-predpriyatie-8-izdanie-2-disk-660347/,2448,null,null
@@ -303,7 +303,7 @@ _id,authors,name,link,sale_coast,old_coast,rating
 5ecebaeff2c954e59741e657,"[""Фримен Э""]",Head First. Паттерны проектирования. Обновленное юбилейное издание,https://book24.ru/product/head-first-patterny-proektirovaniya-obnovlennoe-yubileynoe-izdanie-5441774/,1205,null,null
 5ecebaf0f2c954e59741e65b,"[""Гифт Н.""]",Прагматичный ИИ. Машинное обучение и облачные технологии,https://book24.ru/product/pragmatichnyy-ii-mashinnoe-obuchenie-i-oblachnye-tekhnologii-5441747/,1548,null,null
 5ecebaf0f2c954e59741e65c,"[""Большаков В П""]",Твердотельное моделирование сборочных единиц в СAD-системах. Учебное пособие для вузов,https://book24.ru/product/tverdotelnoe-modelirovanie-sborochnykh-edinits-v-sad-sistemakh-uchebnoe-posobie-dlya-vuzov-5441863/,1517,null,null
-5ecebaf0f2c954e59741e65f,"[""Уэйнрайт М.""]",Программируем на Scratch. Приключения в космосе 6024 СКХ,https://book24.ru/product/programmiruem-na-scratch-priklyucheniya-v-kosmose-6024-skkh-5432104/,354,null,null
+5ecebaf0f2c954e59741e65f,"[""Уэйнрайт М.""]",Программируем на Scratch. Приключения в космосе 6024 СКХ,https://book24.ru/product/programmiruem-na-scratch-priklyucheniya-v-kosmose-6024-skkh-5432104/,354,null,5
 5ecebaf0f2c954e59741e660,"[""Гейг Майк""]",Разработка игр на Unity 2018 за 24 часа,https://book24.ru/product/razrabotka-igr-na-unity-2018-za-24-chasa-5510658/,1184,1316,5
 5ecebaf0f2c954e59741e661,"[""Васильев А Н""]",Java для всех,https://book24.ru/product/java-dlya-vsekh-5442843/,964,null,null
 5ecebaf1f2c954e59741e662,"[""Уэйнрайт М.""]",Программируем на Scratch. Приключения в джунглях 5836 СКХ,https://book24.ru/product/programmiruem-na-scratch-priklyucheniya-v-dzhunglyakh-5836-skkh-5431674/,354,null,null
