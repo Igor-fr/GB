@@ -12,7 +12,7 @@ _Фролкин И.В._
 
 **Предсказание цен на недвижимость** [_\[source\]_](https://github.com/Igor-fr/GB/tree/master/DS_libraries/course_project) _(регрессия, sklearn, random forest)_
 
-**Прогнозирование невыполнения долговых обязательств по текущему кредиту на основании имеющихся данных о клиентах банка** [_\[source\]_](https://github.com/aechernenko/gbu_ai/tree/master/projects/python_data_science_2) _(классификация, catboost)_
+**Прогнозирование невыполнения долговых обязательств по текущему кредиту на основании имеющихся данных о клиентах банка** [_\[source\]_](https://github.com/Igor-fr/GB/tree/master/DS_libraries_2/course_project) _(классификация, catboost)_
 
 **Исследовательский проект по теории вероятности** [_\[source\]_](https://github.com/Igor-fr/GB/tree/master/Matstat/student%20dataset)
 
