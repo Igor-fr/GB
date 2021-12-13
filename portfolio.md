@@ -4,9 +4,9 @@ _Фролкин И.В._
 
 ## **Нейросети:**
 
-** Рабочий проект по обнаружению сигналов в шуме и расчету параметров сигнала (Полное описание проекта могу прислать только по запросу) ** [_\[source\]_](https://github.com/Igor-fr/GB/tree/master/CNN_signals) _(CNN, TensorFlow)_
+**Рабочий проект по обнаружению сигналов в шуме и расчету параметров сигнала (Полное описание проекта могу прислать только по запросу)** [_\[source\]_](https://github.com/Igor-fr/GB/tree/master/CNN_signals) _(CNN, TensorFlow)_
 
-** Задачи Computer Vision** [_\[source\]_](https://github.com/Igor-fr/GB/tree/master/Computer_vision) _(TensorFlow, Keras, CNN, GAN, VAE, transfer learning)_
+**Задачи Computer Vision** [_\[source\]_](https://github.com/Igor-fr/GB/tree/master/Computer_vision) _(TensorFlow, Keras, CNN, GAN, VAE, transfer learning)_
 
 ## **Классический ML:**
 
